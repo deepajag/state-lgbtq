@@ -1,9 +1,9 @@
-# county-lgbtq
+# State-lgbtq
 
-##Aim
+Aim
 Provide updated estimates of the prevalence of sexual minority yough by state.
 
-##Key scripts
+Key scripts
 
 **00_data_process**
 Combines and aligns variables of the publicly-available state dataset, in addition to specially requested data from other states.
